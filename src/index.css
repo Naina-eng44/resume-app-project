@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.sidebar {
+  background: #1e1e2f;
+  color: white;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.main {
+  padding: 20px;
+}
+
+.card {
+  margin: 10px 0;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.profile-img {
+  width: 120px;
+  border-radius: 50%;
+}
+
+.progress {
+  height: 8px;
+  background: #ddd;
+}
+
+.progress-bar {
+  background: #4caf50;
+}
+
+.dark {
+  background: #121212;
+  color: white;
+}
+
+/* Card Styling */
+.card {
+  margin: 12px 0;
+  border-radius: 15px;
+  padding: 15px;
+  transition: all 0.3s ease;
+  background: white;
+}
+
+/* Strong Hover Effect */
+.card:hover {
+  transform: translateY(-8px) scale(1.02);
+  box-shadow: 0 15px 30px rgba(0,0,0,0.2);
+}
+
+/* Sidebar hover feel */
+.sidebar .card:hover {
+  background: #2a2a40;
+}
+
+/* Smooth buttons */
+button {
+  transition: 0.3s;
+}
+
+button:hover {
+  transform: scale(1.05);
+}
