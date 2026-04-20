@@ -48,7 +48,7 @@ src/
 
 ### Application UI
 
-!["output](./resume-app/screenshort/output.png)
+!["output](./screenshort/output.png)
 
 
 ## Navigate to project folder
