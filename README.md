@@ -16,6 +16,10 @@ This project allows users to create, customize, and download their resume dynami
 -  Fully Responsive Layout
 -  Component-Based Architecture
 
+## Live Demo
+
+https://resume-app-project.vercel.app/
+
 
 ## Tech Stack
 
